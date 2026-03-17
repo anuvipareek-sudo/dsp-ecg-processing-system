@@ -1,0 +1,19 @@
+# MATLAB files to ignore
+
+*.asv
+*.autosave
+*.fig~
+*.slx.r*
+*.mdl.r*
+*.mex*
+*.p
+*.log
+
+slprj/
+*_slprj/
+*.slxc
+
+*.prj
+
+.DS_Store
+Thumbs.db
