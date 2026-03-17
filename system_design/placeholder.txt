@@ -1,0 +1,9 @@
+This folder contains system-level design components of the project.
+
+Includes:
+- Architecture diagrams of the DSP pipeline
+- Finite State Machine (FSM) diagrams
+- Description of system modules and control flow
+
+Represents how a hardware system would organize and control
+the DSP processing stages.
