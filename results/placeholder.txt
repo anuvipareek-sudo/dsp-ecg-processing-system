@@ -1,0 +1,9 @@
+This folder contains output results generated from the DSP algorithm.
+
+Includes:
+- Raw ECG signal plots
+- Filtered signal plots
+- Peak detection visualizations
+- Any computed metrics (e.g., heart rate)
+
+These results demonstrate the effectiveness of the signal processing pipeline.
